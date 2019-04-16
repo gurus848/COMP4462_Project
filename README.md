@@ -26,7 +26,7 @@ Guru started working on it. Needs to be improved, if you use a large number of r
 
 <ins>Visualization 1: <ins>
 
-Ayush is working on it?
+Ayush is working on it
 
 <ins>Visualization 2: <ins>
 
@@ -50,8 +50,8 @@ Guru worked on it. Could play around and try to make it look nicer, maybe use co
 
 <ins>Visualization 2: <ins>
 
-Ayush is working on it?
+Ayush is working on it
 
 <ins>Visualization 3: <ins>
 
-Not started
+Abhishek is working on it
