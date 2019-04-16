@@ -18,6 +18,8 @@ Please update the progress here if you start/continue working on a task
 
 Guru started working on it. Currently works OK, the placement of the circles in the animation could be improved. Could also play around with the animation duration, and maybe encode the ranking in some way other than area.
 
+Abhishek is working on the positioning of the circles and changes in area.
+
 <ins>Visualization 2: <ins>
 
 Guru started working on it. Needs to be improved, if you use a large number of regions it does not look that great. Also need to figure out where to place labels for the rivers properly.
