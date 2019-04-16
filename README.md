@@ -64,3 +64,10 @@ Ayush is working on it
 <ins>Visualization 3: Growth Rings <ins>
 
 Abhishek is working on it
+
+## Extra Task
+
+<ins> Correlation heatmap <ins>
+
+Add the top position reached, and the no. of days in the rankings as features of each song for it to potentially be more interesting.
+David is working on it.
