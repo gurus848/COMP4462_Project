@@ -14,44 +14,46 @@ Please update the progress here if you start/continue working on a task
 
 ## Task 1
 
- <ins>Visualization 1: <ins>
+ <ins>Visualization 1: Circle Animation<ins>
 
 Guru started working on it. Currently works OK, the placement of the circles in the animation could be improved. Could also play around with the animation duration, and maybe encode the ranking in some way other than area.
 
-<ins>Visualization 2: <ins>
+<ins>Visualization 2: Theme River<ins>
 
 Guru started working on it. Needs to be improved, if you use a large number of regions it does not look that great. Also need to figure out where to place labels for the rivers properly.
 
+David will rewrite it in D3. 
+
 ## Task 2
 
-<ins>Visualization 1: <ins>
+<ins>Visualization 1: Parallel Coordinates <ins>
 
 Ayush is working on it
 
-<ins>Visualization 2: <ins>
+<ins>Visualization 2: Edge bundling <ins>
 
 David is working on it. Please add progress.
 
 ## Task 3
 
-<ins>Visualization 1: <ins>
+<ins>Visualization 1: Line Graph Animation <ins>
 
 Guru started to work on it.
 
-<ins>Visualization 2: <ins>
+<ins>Visualization 2: Heatmap <ins>
 
 Guru worked on it. HK is pretty small in the current heatmap, don't know any way currently to just make HK look larger. Could play around with how the ranking change speed is calculated to make it more interesting.
 
 ## Task 4
 
-<ins>Visualization 1: <ins>
+<ins>Visualization 1: Artist-Country Node Link <ins>
 
 Guru worked on it. Could play around and try to make it look nicer, maybe use country flags instead of just squares, can be done in plotly but more complex. Could maybe do higher level clusterings based on genre/continent. Layout is pretty good right now IMO, but could always try to improve it. 
 
-<ins>Visualization 2: <ins>
+<ins>Visualization 2: Heatmap <ins>
 
 Ayush is working on it
 
-<ins>Visualization 3: <ins>
+<ins>Visualization 3: Growth Rings <ins>
 
 Abhishek is working on it
