@@ -1,3 +1,4 @@
+conflict
 # COMP4462_Project
 
 Tasks Research Document: https://docs.google.com/document/d/15AqlrcBQ0bR-ddqEdHO9ZM9beTVNrfiwokF32XI-XGs/edit
