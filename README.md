@@ -18,7 +18,10 @@ Please update the progress here if you start/continue working on a task
 
 Guru started working on it. Currently works OK, the placement of the circles in the animation could be improved. Could also play around with the animation duration, and maybe encode the ranking in some way other than area.
 
+Abhishek is working on the positioning of the circles and changes in area.
+
 <ins>Visualization 2: Theme River<ins>
+
 
 Guru started working on it. Needs to be improved, if you use a large number of regions it does not look that great. Also need to figure out where to place labels for the rivers properly.
 
@@ -32,7 +35,7 @@ Ayush is working on it
 
 <ins>Visualization 2: Edge bundling <ins>
 
-David is working on it. Please add progress.
+David is working on it. Will work on hovering to filter, and better threshold for L2.
 
 ## Task 3
 
@@ -44,11 +47,15 @@ Guru started to work on it.
 
 Guru worked on it. HK is pretty small in the current heatmap, don't know any way currently to just make HK look larger. Could play around with how the ranking change speed is calculated to make it more interesting.
 
+More or less finished.
+
 ## Task 4
 
 <ins>Visualization 1: Artist-Country Node Link <ins>
 
 Guru worked on it. Could play around and try to make it look nicer, maybe use country flags instead of just squares, can be done in plotly but more complex. Could maybe do higher level clusterings based on genre/continent. Layout is pretty good right now IMO, but could always try to improve it. 
+
+Pretty much finished.
 
 <ins>Visualization 2: Heatmap <ins>
 
