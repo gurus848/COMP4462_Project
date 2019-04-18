@@ -35,7 +35,7 @@ Ayush is working on it
 
 <ins>Visualization 2: Edge bundling <ins>
 
-David is working on it. Will work on hovering to filter, and better threshold for L2.
+David is working on it. Threshold is ok, but hovering is going to be hard since we use html canvas. Can I just make selector buttons?
 
 ## Task 3
 
