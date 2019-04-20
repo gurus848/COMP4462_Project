@@ -26,6 +26,11 @@ Abhishek is working on the positioning of the circles and changes in area.
 Guru started working on it. Needs to be improved, if you use a large number of regions it does not look that great. Also need to figure out where to place labels for the rivers properly.
 
 David will rewrite it in D3. 
+UPDATE:
+
+Done making the themeriver in D3. Some issues:
+1. For D3 to make theme rivers, i need to normalize the streams. Is that okay, or should I change the y axis to reflect number of streams?
+2. We should find good color schemes, for his course
 
 ## Task 2
 
