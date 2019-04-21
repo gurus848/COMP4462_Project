@@ -46,7 +46,7 @@ David is working on it. Threshold is ok, but hovering is going to be hard since 
 
 <ins>Visualization 1: Line Graph Animation <ins>
 
-Guru started to work on it.
+Guru worked on it. Mostly done, only problem is that the colors of the song lines change sometimes, but this should be fixable. Another problem is that sometimes songs enter the charts from the bottom, and this looks a bit trippy. 
 
 <ins>Visualization 2: Heatmap <ins>
 
@@ -64,7 +64,7 @@ Pretty much finished.
 
 <ins>Visualization 2: Heatmap <ins>
 
-Ayush is working on it
+Ayush worked on it. Guru will finish it. 
 
 <ins>Visualization 3: Growth Rings <ins>
 
