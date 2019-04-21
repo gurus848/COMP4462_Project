@@ -64,7 +64,7 @@ Pretty much finished.
 
 <ins>Visualization 2: Heatmap <ins>
 
-Ayush worked on it. Guru will finish it. 
+Ayush worked on it. Guru mostly finished it, could maybe play around with different metrics to determine artist popularity. 
 
 <ins>Visualization 3: Growth Rings <ins>
 
