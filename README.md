@@ -36,7 +36,7 @@ Done making the themeriver in D3. Some issues:
 
 <ins>Visualization 1: Parallel Coordinates <ins>
 
-Ayush is working on it
+Ayush completed it.
 
 <ins>Visualization 2: Edge bundling <ins>
 
