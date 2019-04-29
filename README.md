@@ -8,6 +8,8 @@ Possible Tasks Document: https://docs.google.com/document/d/1bAz7c6TN-Iy2XvFkMa9
 
 Drive link for data: https://drive.google.com/open?id=1oya6IbQI2ros8PA0arl0D92fUNEYjKvz
 
+Remember to add the data files from the Google Drive link to the data folder before trying to run the code.
+
 # Progress
 
 Please update the progress here if you start/continue working on a task
