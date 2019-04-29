@@ -8,6 +8,8 @@ Possible Tasks Document: https://docs.google.com/document/d/1bAz7c6TN-Iy2XvFkMa9
 
 Drive link for data: https://drive.google.com/open?id=1oya6IbQI2ros8PA0arl0D92fUNEYjKvz
 
+Remember to add the data files from the Google Drive link to the data folder before trying to run the code.
+
 # Progress
 
 Please update the progress here if you start/continue working on a task
@@ -36,7 +38,7 @@ Done making the themeriver in D3. Some issues:
 
 <ins>Visualization 1: Parallel Coordinates <ins>
 
-Ayush is working on it
+Ayush completed it.
 
 <ins>Visualization 2: Edge bundling <ins>
 
@@ -46,7 +48,7 @@ David is working on it. Threshold is ok, but hovering is going to be hard since 
 
 <ins>Visualization 1: Line Graph Animation <ins>
 
-Guru started to work on it.
+Guru worked on it. Mostly done, only problem is that the colors of the song lines change sometimes, but this should be fixable. Another problem is that sometimes songs enter the charts from the bottom, and this looks a bit trippy. 
 
 <ins>Visualization 2: Heatmap <ins>
 
@@ -64,7 +66,7 @@ Pretty much finished.
 
 <ins>Visualization 2: Heatmap <ins>
 
-Ayush is working on it
+Ayush worked on it. Guru mostly finished it, could maybe play around with different metrics to determine artist popularity. 
 
 <ins>Visualization 3: Growth Rings <ins>
 

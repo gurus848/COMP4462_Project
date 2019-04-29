@@ -1,1 +1,10 @@
+https://drive.google.com/open?id=13UCojbxEmfy1SDJi7DWFfi8CA2MyMrto
+Some work on Jupyter notebook
+Similar to Guru's work on Task 3 Viz 2 Heatmap
+
+Current Problems/Issues:
+1. Problem of map not displaying for the map which does not has the HK part
+2. For a top artist, theoritically there can be multiple tracks on the top list, this complicates the results from the code. Proposed solution: 
+Count the total number of streams for each artist across all the tracks.
+
 
