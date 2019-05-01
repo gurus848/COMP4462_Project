@@ -77,7 +77,7 @@ Ayush worked on it. Guru mostly finished it, could maybe play around with differ
 
 <ins>Visualization 3: Growth Rings <ins>
 
-Abhishek is working on it
+Pretty much finished. Will take feedback
 
 ## Extra Task
 
