@@ -15,6 +15,8 @@ Drive link for data: https://drive.google.com/open?id=1oya6IbQI2ros8PA0arl0D92fU
 
 Remember to add the data files from the Google Drive link to the data folder before trying to run the code.
 
+Please install dependencies before running the code. All of the paths used are relative paths.
+
 # Progress
 
 Please update the progress here if you start/continue working on a task
