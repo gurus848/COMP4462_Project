@@ -1,4 +1,7 @@
-# COMP4462_Project
+# COMP4462_Project Spring 2019
+
+Team “To be named”:
+SENTHIL Guru Sarjith, SUN David, GUPTA Ayush, GUPTA Abhishek
 
 Github Link: https://github.com/gurus848/COMP4462_Project.git
 
