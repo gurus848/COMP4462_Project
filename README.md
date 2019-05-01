@@ -1,4 +1,9 @@
-# COMP4462_Project
+# COMP4462_Project Spring 2019
+
+Team “To be named”:
+SENTHIL Guru Sarjith, SUN David, GUPTA Ayush, GUPTA Abhishek
+
+Github Link: https://github.com/gurus848/COMP4462_Project.git
 
 Tasks Research Document: https://docs.google.com/document/d/15AqlrcBQ0bR-ddqEdHO9ZM9beTVNrfiwokF32XI-XGs/edit
 
@@ -9,6 +14,8 @@ Possible Tasks Document: https://docs.google.com/document/d/1bAz7c6TN-Iy2XvFkMa9
 Drive link for data: https://drive.google.com/open?id=1oya6IbQI2ros8PA0arl0D92fUNEYjKvz
 
 Remember to add the data files from the Google Drive link to the data folder before trying to run the code.
+
+Please install dependencies before running the code. All of the paths used are relative paths.
 
 # Progress
 
@@ -70,7 +77,7 @@ Ayush worked on it. Guru mostly finished it, could maybe play around with differ
 
 <ins>Visualization 3: Growth Rings <ins>
 
-Abhishek is working on it
+Pretty much finished. Will take feedback
 
 ## Extra Task
 
