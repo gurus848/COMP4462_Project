@@ -27,7 +27,7 @@ Please update the progress here if you start/continue working on a task
 
 Guru started working on it. Currently works OK, the placement of the circles in the animation could be improved. Could also play around with the animation duration, and maybe encode the ranking in some way other than area.
 
-Abhishek is working on the positioning of the circles and changes in area.
+Abhishek will work on the positioning and area of the circles.
 
 <ins>Visualization 2: Theme River<ins>
 
@@ -77,7 +77,7 @@ Ayush worked on it. Guru mostly finished it, could maybe play around with differ
 
 <ins>Visualization 3: Growth Rings <ins>
 
-Pretty much finished. Will take feedback
+Abhishek implemented the Growth Rings in Python. Pretty much finished. Will take feedback
 
 ## Extra Task
 
