@@ -13,7 +13,7 @@ Possible Tasks Document: https://docs.google.com/document/d/1bAz7c6TN-Iy2XvFkMa9
 
 Drive link for data: https://drive.google.com/open?id=1oya6IbQI2ros8PA0arl0D92fUNEYjKvz
 
-Final presentation link: https://drive.google.com/open?id=1VdrnRtftQXlC8NsYVBA2x9TVaU17oMO8
+Final presentation link: https://drive.google.com/open?id=1jgYFXfKBJbwA1xJAVdp3g4dYaN_9Eu3q
 
 Remember to add the data files from the Google Drive link to the data folder before trying to run the code.
 
@@ -90,5 +90,5 @@ David is working on it.
 
 ## Final Presentation
 
-Link: Final presentation link: https://drive.google.com/open?id=1VdrnRtftQXlC8NsYVBA2x9TVaU17oMO8
+Link: Final presentation link: https://drive.google.com/open?id=1jgYFXfKBJbwA1xJAVdp3g4dYaN_9Eu3q
 Completed. Thanks to all the members for their support in this project! :-)
