@@ -13,6 +13,8 @@ Possible Tasks Document: https://docs.google.com/document/d/1bAz7c6TN-Iy2XvFkMa9
 
 Drive link for data: https://drive.google.com/open?id=1oya6IbQI2ros8PA0arl0D92fUNEYjKvz
 
+Final presentation link: https://drive.google.com/open?id=1VdrnRtftQXlC8NsYVBA2x9TVaU17oMO8
+
 Remember to add the data files from the Google Drive link to the data folder before trying to run the code.
 
 Please install dependencies before running the code. All of the paths used are relative paths.
@@ -85,3 +87,8 @@ Abhishek implemented the Growth Rings in Python. Pretty much finished. Will take
 
 Add the top position reached, and the no. of days in the rankings as features of each song for it to potentially be more interesting.
 David is working on it.
+
+## Final Presentation
+
+Link: Final presentation link: https://drive.google.com/open?id=1VdrnRtftQXlC8NsYVBA2x9TVaU17oMO8
+Completed. Thanks to all the members for their support in this project! :-)
